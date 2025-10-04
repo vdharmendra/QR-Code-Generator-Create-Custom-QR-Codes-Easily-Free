@@ -34,17 +34,12 @@ slideview/
 
 
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="" width="575px"/>
+<a href="https://www.behance.net/gallery/235920555/QR-Code-Generator" target="_blank" >
+<img src="./qrcodegenerate-lp.gif" width="575px"/>
 </a>
 
 <span>👉 Desktop Design</span><br/>
-<a href="#" target="_blank" >
-<img src="" width="275px"/>
-<img src="" width="275px"/>
-</a>
-
-<span>👉 Cover Design</span><br/>
-<a href="#" target="_blank" >
-<img src="" width="375px"/>
+<a href="https://www.behance.net/gallery/235920555/QR-Code-Generator" target="_blank" >
+<img src="./qrcodegenerate-lp1.png" width="275px"/>
+<img src="./qrcodegenerate-lp2.png" width="275px"/>
 </a>

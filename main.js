@@ -1,4 +1,3 @@
-debugger;
 let imgBox = document.getElementById("img-box");
 let qrImage = document.getElementById("qr-image");
 let qrText = document.getElementById("qr-text");
